@@ -1,5 +1,5 @@
 {
-  "name": "ember-route-action-helper",
+  "name": "eflex-ember-route-action-helper",
   "version": "2.0.7",
   "description": "Bubble closure actions in routes",
   "directories": {
@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:each"
   },
-  "repository": "https://github.com/DockYard/ember-route-action-helper",
+  "repository": "https://github.com/eflexsystems/ember-route-action-helper",
   "engines": {
     "node": "^4.5 || 6.* || >= 7.*"
   },
